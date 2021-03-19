@@ -310,6 +310,7 @@ namespace MysticLightUltimate
             }
         }
 
+        //a color conversion function I took from StackOverflow, yeehaw
         void HsvToRgb(double h, double S, double V, out int r, out int g, out int b)
         {
             double H = h;

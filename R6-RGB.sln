@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MysticLightR6", "MysticLightR6.csproj", "{47704E85-EE69-4B13-8299-CE96EACC832D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R6-RGB", "R6-RGB.csproj", "{47704E85-EE69-4B13-8299-CE96EACC832D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
